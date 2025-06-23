@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+
+# dotenv
+.env
+
+# History CSV
+history.csv
+
+# Coverage
+htmlcov/
+.coverage
