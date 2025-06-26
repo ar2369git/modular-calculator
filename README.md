@@ -28,7 +28,7 @@ A sophisticated, modular command-line calculator in Python featuring advanced de
 
 ## Requirements
 
-- Python 3.8+  
+- Python 3+  
 - `pandas`  
 - `python-dotenv`  
 - `pytest`, `pytest-cov`
