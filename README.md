@@ -1,6 +1,5 @@
 # Modular Calculator
 
-[![CI](https://github.com/<YOUR_USERNAME>/modular-calculator/actions/workflows/python-app.yml/badge.svg)](https://github.com/<YOUR_USERNAME>/modular-calculator/actions)
 
 A sophisticated, modular command-line calculator in Python featuring advanced design patterns, persistent history via pandas, dotenv-driven configuration, and full test automation with GitHub Actions.
 
